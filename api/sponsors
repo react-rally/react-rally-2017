@@ -1,0 +1,55 @@
+{
+  "Premier": [
+    {
+      "name": "Egghead.io",
+      "url": "https://egghead.io/browse/frameworks/react",
+      "image": "assets/dist/img/sponsors/egghead.svg",
+      "style": {
+        "width": "500px"
+      }
+    }
+  ],
+  "Platinum": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/careers",
+      "image": "assets/dist/img/sponsors/facebook.png"
+    },
+    {
+      "name": "WordPress.com",
+      "url": "https://wordpress.com",
+      "image": "assets/dist/img/sponsors/wordpress.png"
+    },
+    {
+      "name": "Webflow",
+      "url": "https://webflow.com/",
+      "image": "assets/dist/img/sponsors/webflow.png"
+    }
+  ],
+  "Gold": [
+    {
+      "name": "Netlify",
+      "url": "https://www.netlify.com/",
+      "image": "assets/dist/img/sponsors/netlify.png"
+    },
+    {
+      "name": "Instructure",
+      "url": "https://www.instructure.com/careers/",
+      "image": "assets/dist/img/sponsors/instructure.png"
+    },
+    {
+      "name": "BugSnag",
+      "url": "https://www.bugsnag.com/platforms/react-error-reporting/?utm_source=&utm_medium=conference&utm_content=logo&utm_campaign=reactrally-17&utm_term=",
+      "image": "assets/dist/img/sponsors/bugsnag.png"
+    },
+    {
+      "name": "Jane",
+      "url": "http://www.jane.com/careers",
+      "image": "assets/dist/img/sponsors/jane.png"
+    }
+  ],
+  "Silver": [
+  ],
+  "Supporters": [
+  ]
+}
